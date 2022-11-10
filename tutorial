@@ -1,0 +1,18 @@
+! Serve para criar a estrutura do código
+h1 Serve para criar a linha
+<i Serve para deixar o texto em Italico
+big Serve para deixar o texto grande
+small Serve para deixar o texto pequeno
+Sup Serve para deixar o elemento em cima
+Sub Serve para deixar o elemento em baixo
+style Serve para colocar o estilo dos texto
+ol Serve para criar a lista ordenada
+ul Serve para criar a lista não orndenada
+<p Serve para colocar o paragrafo
+section
+li Serve para criar o iten da lista
+<u Serve para sublinhar o texto
+footer Serve para criar o rodapé de baixo
+div Serve para criar uma caixa para os elementos
+<a Serve para criar link, botão, etc
+img Serve para colocar imagem
